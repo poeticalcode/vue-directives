@@ -1,0 +1,7 @@
+{
+  "name": "@hewenyao/vue-directives",
+  "version": "1.0.3",
+  "main": "./src/index.js",
+  "author": "he.wenyao <he.wenyao@qq.com>",
+  "license": "MIT"
+}
